@@ -2,13 +2,11 @@
 Book Core 1.0.0
 ===============================
 
-https://book.io
-
 
 What is Book?
 ----------------
 
-Book-Coin is a fully decentralised cryptocurrency built on the premise of providing anonymity, speed, fair mining by being ASIC-resistant and reliability by the usage of Masternodes.
+Book-Coin is a fully decentralised cryptocurrency which provides the base for Book Dex, the fully automated and decentralized marketpalce for ebooks and audiobooks
 
 
 For more information, as well as an immediately usable, binary version of
