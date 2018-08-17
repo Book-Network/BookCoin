@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Book
+Comment=Book P2P Cryptocurrency
+Exec=book-qt %u
+Terminal=false
+Type=Application
+Icon=book128
+MimeType=x-scheme-handler/book;
+Categories=Office;Finance;
+Name[en_GB]=book-qt.desktop.desktop
