@@ -23,8 +23,8 @@ packages:
 - "python"
 reference_datetime: "2017-01-01 00:00:00"
 remotes:
-- "url": "https://github.com/bookcoin/bookcoin.git"
-  "dir": "bookcoin"
+- "url": "https://github.com/Book-Network/BookCoin.git"
+  "dir": "BookCoin"
 files: []
 script: |
   WRAP_DIR=$HOME/wrapped
