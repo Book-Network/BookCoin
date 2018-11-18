@@ -10,8 +10,6 @@ Book-Coin is a fully decentralised cryptocurrency which provides the base for Bo
 
 
 For more information, as well as an immediately usable, binary version of
-the Book Core software, see https://book.io
-
 
 License
 -------
